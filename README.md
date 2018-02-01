@@ -1,4 +1,5 @@
 # react-native-cryptoVizDataApp
+Renders a live-streaming graph of cryptocurrency trade data
 
 ## Running on an ios simulator
 
